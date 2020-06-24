@@ -6,7 +6,7 @@ PDF Organiser gathers PDF files distributed throughout your system into one plac
 
 ### Download
 Precompiled binaries for Linux are available in [rpm](https://github.com/johndoer/pdforganiser/releases/download/0.1/pdforganiser-0.1-1.el7.centos.x86_64.rpm) and [deb](https://github.com/johndoer/pdforganiser/releases/download/0.1/pdforganiser_1.0.0-1_amd64.deb) format on the releases page.
-The tarball [pdforganiser-0.1.tar.gz](https://github.com/johndoer/pdforganiser/releases/download/0.1/pdforganiser-0.1.tar.gz) is also available on the releases page.
+<br>[pdforganiser-0.1.tar.gz](https://github.com/johndoer/pdforganiser/releases/download/0.1/pdforganiser-0.1.tar.gz) is also available on the releases page.
 
 ### Installation
 ```bash
