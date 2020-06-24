@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=PDF Organiser
+Exec=pdforganiser
+Comment=Organise your PDF files
+Icon=pdforganiser
+Categories=GTK;GNOME;Utility;Viewer;
+Terminal=false
