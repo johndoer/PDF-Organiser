@@ -4,6 +4,9 @@
 
 PDF Organiser gathers PDF files distributed throughout your system into one place where you can organise them into folders of your choosing. It has minimal dependencies of gtk and json glib so it is very lightweight and fast with a binary size of less than 45 Kb. 
 
+### Download
+Precompiled binaries for Linux are available in rpm and deb format on the releases page.
+
 ### Installation
 ```bash
 git clone https://github.com/johndoer/pdforganiser.git
